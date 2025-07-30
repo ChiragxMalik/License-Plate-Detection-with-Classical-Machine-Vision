@@ -5,7 +5,7 @@ A project a did for my Machine Vision course that detects and reads license plat
 
 While I'm learning and using modern tools, this project helped me understand the foundational concepts behind how machines actually "see" images.
 
-## 🚀 How It Works
+## How It Works
 
 The system processes images through these steps:
 
